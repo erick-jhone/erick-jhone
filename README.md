@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erick-jhone
-- 👀 I’m interested in Java / Python / Javascript / HTML & CSS 
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in Mobile with Java and Flutter 
+- 🌱 I’m currently learning Java and Dart
 - 💞️ I’m looking to collaborate on IFTO - Palmas 
 - 📫 How to reach me -  
 
