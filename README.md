@@ -6,7 +6,7 @@
 
 :office: Quantum - Sistemas de Gestão
 
-:books: Stundent of Internet Systems in Institute Federal of Tocantins
+:books: Graduando em Sistemas para Internet - IFTO
 
 
 :computer: Java, Kotlin, Android, Flutter and Javascript
